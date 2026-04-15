@@ -1,2 +1,2 @@
 # PBL-414
-- memperbaiki authentication saat login pada admin
+- memperbaiki tarining AI yang mmebuat hasil tidak sesuai
